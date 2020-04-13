@@ -1,6 +1,6 @@
-#Proyecto realizado por:
-#Omar Martinez, carnet 1210636
-#Joaquin Orantes, carnet 19007763
+#Project by:
+#Omar Martinez
+#Joaquin Orantes
 
 import re
 import numpy as np
