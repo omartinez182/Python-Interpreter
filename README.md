@@ -1,8 +1,8 @@
-# Python-Interpreter
+# Python Interpreter
 
 The following python program is an interpreter that takes a text file with [PSeInt](http://pseint.sourceforge.net/) Pseudocode and translates it into Python code. 
 
-The goal of this interpreter is two-fold:
+The goal for building this interpreter was two-fold:
 
 1. Understand the logic necessary to develop simple programs, without the inconvenience of leading with a complicated syntax, which is ideal for beginners.
 2. Once the user can actually write her own code, she can review the code generated in Python and in this way intuitively understand how that programming language works.
@@ -129,9 +129,5 @@ The program can be run directly in the terminal and has 4 different option:
   main()
   ```
 ---
-### Authors
-* Joaquin Orantes
-* Omar Eduardo Martinez
-
 
 
