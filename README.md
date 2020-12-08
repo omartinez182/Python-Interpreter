@@ -129,5 +129,7 @@ The program can be run directly in the terminal and has 4 different option:
   main()
   ```
 ---
-
+### Authors
+* Joaquin Orantes
+* Omar Eduardo Martinez
 
