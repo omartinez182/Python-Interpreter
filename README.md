@@ -5,7 +5,7 @@ The following python program is an interpreter that takes a text file with [PSeI
 The goal for building this interpreter was two-fold:
 
 1. Understand the logic necessary to develop simple programs, without the inconvenience of leading with a complicated syntax, which is ideal for beginners.
-2. Once the user can actually write her own code, she can review the code generated in Python and in this way intuitively understand how that programming language works
+2. Once the user can actually write her own code, she can review the code generated in Python and in this way intuitively understand how that programming language works.
 
 ## How to use
 
